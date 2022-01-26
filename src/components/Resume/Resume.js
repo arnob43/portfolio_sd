@@ -2,7 +2,7 @@ import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import { AiOutlineDownload } from "react-icons/ai";
-import ResumePdf from "../../Assets/Resume.pdf";
+import ResumePdf from "../../Assets/CV_SD.pdf";
 import Particle from "../Particle";
 import Resumecontent from "./ResumeContent";
 

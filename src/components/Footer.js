@@ -37,7 +37,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.facebook.com/sagar.mude.39"
+                href="https://www.facebook.com/arnob.datta.33"
                 style={{ color: "white" }}
               >
                 <AiFillFacebook />
@@ -45,7 +45,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/sagarmude7/"
+                href="https://www.instagram.com/a_for_arnob/"
                 style={{ color: "white" }}
               >
                 <AiFillInstagram />

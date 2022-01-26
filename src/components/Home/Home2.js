@@ -102,16 +102,7 @@ function Home2() {
                   <AiFillInstagram />
                 </a>
               </li>
-              {/* <li className="social-icons">
-                <a
-                  href="https://twitter.com/SAGARMUDE1"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li> */}
+              
             </ul>
           </Col>
         </Row>

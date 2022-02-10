@@ -1,7 +1,7 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import {
-  AiFillFacebook, AiFillGithub, AiFillInstagram, AiOutlineTwitter
+  AiFillFacebook, AiFillGithub, AiFillInstagram
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -51,14 +51,14 @@ function Footer() {
                 <AiFillInstagram />
               </a>
             </li>
-            <li className="social-icons">
+            {/* <li className="social-icons">
               <a
                 href="https://twitter.com/"
                 style={{ color: "white" }}
               >
                 <AiOutlineTwitter />
               </a>
-            </li>
+            </li> */}
           </ul>
         </Col>
       </Row>
